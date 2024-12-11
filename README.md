@@ -3,6 +3,6 @@
 
 - Second page is a page where you use all the media element existing in html to create powerful message about yourself. Specially use picture element with more that 3 sources with responsiveness for mobile, tablet and laptop.
 
-table.html and media.html
+``` table.html and media.html```
 
-_NB: Strictly without CSS.
+_ NB: Strictly without CSS.
